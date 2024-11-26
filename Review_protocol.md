@@ -66,7 +66,7 @@ Preliminary components to be extracted:
 - Features of users control over decisions
 
 ### Types of contributions
-Inspired by Kuhrmann et al.[^2] and Shaw[^3], we classified publications by their types of contributions (i.e., multiple choice) according to the following:
+Inspired by Kuhrmann et al. [^2] and Shaw [^3], we classified publications by their types of contributions (i.e., multiple choice) according to the following:
 - **Model**, Representation of observed reality by concepts after conceptualization.
 - **Theory**, Construct of cause-effect relationships.
 - **Framework**, Frameworks/methods (related to automated privacy decisions).
@@ -87,4 +87,4 @@ Preliminary components of the data synthesis:
 
 [^1]: Barbara Kitchenham. Procedures for performing systematic reviews. Technical Report 2004, Keele, UK, Keele University
 [^2]: Marco Kuhrmann, Philipp Diebold, and Jürgen Münch. Software process improvement: a systematic mapping study on the state of the art
-[^3] M. Shaw. Writing good software engineering research papers. In 25th International Conference on Software Engineering, 2003
+[^3]: M. Shaw. Writing good software engineering research papers. In 25th International Conference on Software Engineering, 2003
