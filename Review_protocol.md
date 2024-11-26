@@ -86,5 +86,5 @@ Preliminary components of the data synthesis:
 
 
 [^1]: Barbara Kitchenham. Procedures for performing systematic reviews. Technical Report 2004, Keele, UK, Keele University
-[^2] Marco Kuhrmann, Philipp Diebold, and Jürgen Münch. Software process improvement: a systematic mapping study on the state of the art
+[^2]: Marco Kuhrmann, Philipp Diebold, and Jürgen Münch. Software process improvement: a systematic mapping study on the state of the art
 [^3] M. Shaw. Writing good software engineering research papers. In 25th International Conference on Software Engineering, 2003
