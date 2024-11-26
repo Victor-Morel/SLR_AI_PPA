@@ -20,7 +20,7 @@ Therefore, the remaining phases of this SLR reflect the RQ in the search process
 
 ## Methods
 ### Design
-This SoK study adopts the widely known methodology for SLRs proposed by (Kitchenham 2004)[^1].
+This SoK study adopts the widely known methodology for SLRs proposed by (Kitchenham 2004) [^1].
 The SLR methodology offers us a well-defined and rigorous sequence of methodological steps consisting of three main phases: (1) planning, (2) conducting, and (3) reporting the review.
 
 ### Eligibility criteria
