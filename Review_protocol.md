@@ -15,8 +15,10 @@ However, we could not identify any survey or systematic reviews on the topic, re
 
 
 ## Research questions
-The main Research Question (RQ) that guided this SLR is the following: **What are the existing AI-driven agents and assistants for automating and supporting the privacy decisions of end-users for IT systems?**
-Therefore, the remaining phases of this SLR reflect the RQ in the search process, selection criteria, and data synthesis, presented in the following subsections.
+The main Research Questions (RQs) that guided this SLR are the following:
+- RQ1, **What is the current state of the literature on AI-driven Personalized Privacy Assistants for automated support of end-users privacy decisions in IT systems?**
+- RQ2, **What are the key attributes and properties of the proposed AI-driven Personalized Assistants in the literature?**
+Therefore, the remaining phases of this SLR reflect the RQs in the search process, selection criteria, and data synthesis, presented in the following subsections.
 
 ## Methods
 ### Design
@@ -43,7 +45,7 @@ For that, the authors independently screened 10\% of the results and discussed t
 The conflicts were all discussed and solved, sometimes with the help of a third author.
 This process was repeated a second time, screening another 10\% of the papers, at a point that the authors agreed with the consistency of the selection process.
 
-Based on our RQ and previous preliminary searches when designing the SLR Protocol, we identified a list of nine relevant keywords, i.e., privacy, data protection, assistant, agent, artificial intelligence, machine learning, intelligent, automatic, and personalized. These keywords were used to construct the following search query:
+Based on our RQs and previous preliminary searches when designing the SLR Protocol, we identified a list of nine relevant keywords, i.e., privacy, data protection, assistant, agent, artificial intelligence, machine learning, intelligent, automatic, and personalized. These keywords were used to construct the following search query:
 
 `(privacy OR "data protection") AND (assistant* OR agent*) AND ("artificial intelligence" OR "machine*learning" OR intelligent OR automat* OR personali*ed)`
 
