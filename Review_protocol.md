@@ -18,6 +18,7 @@ However, we could not identify any survey or systematic reviews on the topic, re
 The main Research Questions (RQs) that guided this SLR are the following:
 - RQ1, **What is the current state of the literature on AI-driven Personalized Privacy Assistants for automated support of end-users privacy decisions in IT systems?**
 - RQ2, **What are the key attributes and properties of the proposed AI-driven Personalized Assistants in the literature?**
+
 Therefore, the remaining phases of this SLR reflect the RQs in the search process, selection criteria, and data synthesis, presented in the following subsections.
 
 ## Methods
