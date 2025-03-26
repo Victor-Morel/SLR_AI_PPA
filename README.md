@@ -1,4 +1,4 @@
-# SoK: A Classification for AI-driven Personalized Privacy Assistants
+# AI-driven Personalized Privacy Assistants: a Systematic Literature Review
 ## Description
 
 This repository contains the review protocol including the methods used to undertake this Systematic Literature Review regarding AI-driven Personalized Privacy Assistants.

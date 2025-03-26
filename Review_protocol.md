@@ -1,4 +1,4 @@
-# SoK: A classification for AI-driven personalized privacy assistants
+# AI-driven Personalized Privacy Assistants: a Systematic Literature Review
 ## Objective
 AI-driven Personalized Privacy Assistants (AI-driven PPAs) are agents or assistants leveraging Artificial Intelligence (AI) to automate or support end-users in making privacy decisions.
 These AI-driven PPAs can harvest significant benefits for users, who may otherwise struggle to decide on their privacy in information-saturated environments.

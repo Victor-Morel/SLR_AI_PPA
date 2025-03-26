@@ -1,6 +1,7 @@
 # Search documentation - SoK: A classification for AI-driven personalized privacy assistants
 The preliminary searching process for the systematic literature review is documented as follows.
-Note that all searches covered the years 2013-2023, with a search performed on October 19, 2023.
+Note that the initial searches covered the years 2013-2023, with a search performed on October 19, 2023.
+We performed an update of our results in February 2025, repeating the whole process in a 2nd round of searches. 
 
 ## Scopus
 Search strategy:
@@ -39,3 +40,18 @@ Search 4:
 "Abstract": "dynamic" AND ("privacy decision" OR "privacy permission" OR "privacy preference" OR "consent" OR "opt-out" OR "right to object")
 
 Results (hits) before removing duplicates: 262
+
+## Update 2025
+We queried the same databases over 2023-2025.
+
+### Scopus
+Results (hits) before removing duplicates: 519
+
+### Web of Science
+Results (hits) before removing duplicates: 50
+
+### ACM
+Results (hits) before removing duplicates: 85
+
+### IEEE
+Results (hits) before removing duplicates: 162
